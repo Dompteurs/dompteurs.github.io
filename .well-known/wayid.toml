@@ -1,0 +1,6 @@
+# wayID domain verification file
+# See https://way.je/docs/verify-website for details
+
+[wayid]
+version = 1
+verification_token = "wayid-verify-e4ae931843e8d8b3"
